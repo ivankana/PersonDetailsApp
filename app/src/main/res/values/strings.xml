@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PersonDetailsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="personListText">Person List:</string>
+    <string name="personDetailsText">Person Details:</string>
+    <string name="nameText">Name:</string>
+    <string name="lastNameText">Last Name:</string>
+    <string name="ageText">Age:</string>
+    <string name="addressText">Address:</string>
+    <string name="postNoText">Post No:</string>
+    <string name="occupationText">Post No:</string>
+    <string name="schoolText">School:</string>
+    <string name="classText">Class:</string>
+    <string name="companyText">Company:</string>
+    <string name="departmentText">Department:</string>
+</resources>
